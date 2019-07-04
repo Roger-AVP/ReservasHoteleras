@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-microprofile-3.6.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.5.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.3_spec-1.0.6.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.4.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/inject/api/main/javax.inject-1.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.6.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-6.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.13.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-1.6.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.3.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-compat-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/c-1_0.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/fmt-1_0.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/sql-1_0.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/meta-inf/x-1_0.tld" project="belloamanecerWeb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-1.0.3.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/enterprise/api/main/cdi-api-2.0.SP1.jar"/>
+  <path value="C:/Users/Home/eclipse-workspace/marketdemo/marketdemoWeb/WebContent/WEB-INF/lib/primefaces-7.0.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-7.0.jar/meta-inf/faces-config.xml" project="marketdemoWeb"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-7.0.jar/meta-inf/primefaces-p.taglib.xml" project="marketdemoWeb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.6.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-2.3.5.SP1.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.3_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-1.1.3.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/activation/api/main/activation-1.1.1.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/json/api/main/javax.json-api-1.1.2.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/validation/api/main/validation-api-2.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.6.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/mail/api/main/javax.mail-1.6.1.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-1.0.12.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.2.0.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/persistence/api/main/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.6.1.Final.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-impl-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_0-rt.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c-1_1.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/c.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt-1_0-rt.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fmt.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/fn.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/permittedtaglibs.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/scriptfree.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql-1_0-rt.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/sql.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x-1_0-rt.tld" project="belloamanecerWeb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/meta-inf/x.tld" project="belloamanecerWeb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
+  <path value="C:/Users/Home/ServidoresWidfly/wildfly-14.0.1.Final/wildfly-14.0.1.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource declaration="true" name="%1;" path="%0"/>
+   <linked-resource declaration="true" name="%3;" path="%2"/>
+   <linked-resource declaration="true" name="%5;" path="%4"/>
+   <linked-resource name="%7;" path="%6"/>
+   <linked-resource declaration="true" name="%8;" path="%6"/>
+   <linked-resource declaration="true" name="%9;" path="%7"/>
+   <linked-resource declaration="true" name="%11;" path="%10"/>
+  </core>
+  <el>
+   <linked-el length="45" name="%12" offset="1259" path="%13"/>
+   <linked-el length="20" name="%12" offset="863" path="%13"/>
+   <linked-el length="12" name="%12" offset="2240" path="%13"/>
+   <linked-el length="28" name="%12" offset="1057" path="%13"/>
+   <linked-el length="19" name="%12" offset="2499" path="%13"/>
+   <linked-el length="43" name="%12" offset="1098" path="%14"/>
+   <linked-el length="19" name="%12" offset="1476" path="%13"/>
+   <linked-el length="45" name="%12" offset="950" path="%14"/>
+   <linked-el length="39" name="%12" offset="4275" path="%14"/>
+   <linked-el length="47" name="%12" offset="2963" path="%14"/>
+   <linked-el length="15" name="%12" offset="1722" path="%13"/>
+   <linked-el length="15" name="%12" offset="1980" path="%13"/>
+   <linked-el length="36" name="%12" offset="4733" path="%14"/>
+   <linked-el length="39" name="%12" offset="4503" path="%14"/>
+   <linked-el length="35" name="%7" offset="1531" path="%15"/>
+   <linked-el length="45" name="%7" offset="2908" path="%15"/>
+   <linked-el length="49" name="%7" offset="3325" path="%15"/>
+   <linked-el length="32" name="%7" offset="1133" path="%15"/>
+   <linked-el length="41" name="%7" offset="3149" path="%15"/>
+   <linked-el length="49" name="%7" offset="2147" path="%15"/>
+   <linked-el length="31" name="%7" offset="1189" path="%15"/>
+   <linked-el length="52" name="%7" offset="2405" path="%15"/>
+   <linked-el length="46" name="%7" offset="2790" path="%15"/>
+   <linked-el length="55" name="%7" offset="3026" path="%15"/>
+   <linked-el length="35" name="%7" offset="1314" path="%15"/>
+   <linked-el length="38" name="%2" offset="569" path="%16"/>
+   <linked-el length="32" name="%8" offset="1396" path="%17"/>
+   <linked-el length="29" name="%8" offset="1017" path="%17"/>
+   <linked-el length="30" name="%8" offset="774" path="%15"/>
+   <linked-el length="30" name="%8" offset="553" path="%14"/>
+   <linked-el length="30" name="%8" offset="574" path="%18"/>
+   <linked-el length="21" name="%8" offset="1212" path="%17"/>
+   <linked-el length="30" name="%10" offset="1350" path="%14"/>
+   <linked-el length="33" name="%10" offset="2798" path="%14"/>
+   <linked-el length="31" name="%10" offset="1804" path="%14"/>
+   <linked-el length="43" name="%10" offset="1098" path="%14"/>
+   <linked-el length="34" name="%10" offset="1895" path="%14"/>
+   <linked-el length="31" name="%10" offset="2357" path="%14"/>
+   <linked-el length="37" name="%10" offset="567" path="%13"/>
+   <linked-el length="45" name="%10" offset="950" path="%14"/>
+   <linked-el length="34" name="%10" offset="2710" path="%14"/>
+   <linked-el length="39" name="%10" offset="4275" path="%14"/>
+   <linked-el length="47" name="%10" offset="2963" path="%14"/>
+   <linked-el length="38" name="%10" offset="2576" path="%14"/>
+   <linked-el length="36" name="%10" offset="4733" path="%14"/>
+   <linked-el length="34" name="%10" offset="2491" path="%14"/>
+   <linked-el length="41" name="%10" offset="731" path="%14"/>
+   <linked-el length="39" name="%10" offset="2012" path="%14"/>
+   <linked-el length="33" name="%10" offset="1593" path="%14"/>
+   <linked-el length="39" name="%10" offset="4503" path="%14"/>
+   <linked-el length="33" name="%10" offset="1495" path="%14"/>
+   <linked-el length="34" name="%4" offset="633" path="%19"/>
+   <linked-el length="34" name="%4" offset="697" path="%19"/>
+   <linked-el length="49" name="%4" offset="2377" path="%20"/>
+   <linked-el length="30" name="%4" offset="920" path="%19"/>
+   <linked-el length="34" name="%4" offset="716" path="%20"/>
+   <linked-el length="32" name="%4" offset="1324" path="%20"/>
+   <linked-el length="25" name="%4" offset="877" path="%20"/>
+   <linked-el length="30" name="%4" offset="1148" path="%19"/>
+   <linked-el length="34" name="%4" offset="1087" path="%20"/>
+   <linked-el length="50" name="%4" offset="1522" path="%19"/>
+   <linked-el length="47" name="%4" offset="2566" path="%20"/>
+   <linked-el length="30" name="%4" offset="983" path="%20"/>
+   <linked-el length="30" name="%4" offset="1211" path="%20"/>
+   <linked-el length="32" name="%4" offset="1261" path="%19"/>
+   <linked-el length="25" name="%4" offset="814" path="%19"/>
+   <linked-el length="48" name="%4" offset="1583" path="%20"/>
+   <linked-el length="34" name="%4" offset="1024" path="%19"/>
+   <linked-el length="34" name="%4" offset="1780" path="%20"/>
+   <linked-el length="46" name="%0" offset="1606" path="%18"/>
+   <linked-el length="32" name="%0" offset="835" path="%18"/>
+   <linked-el length="27" name="%0" offset="833" path="%21"/>
+   <linked-el length="30" name="%0" offset="876" path="%22"/>
+   <linked-el length="24" name="%0" offset="761" path="%23"/>
+   <linked-el length="50" name="%0" offset="704" path="%21"/>
+   <linked-el length="49" name="%0" offset="1297" path="%18"/>
+   <linked-el length="43" name="%0" offset="1124" path="%24"/>
+   <linked-el length="38" name="%0" offset="1596" path="%21"/>
+   <linked-el length="43" name="%0" offset="2031" path="%21"/>
+   <linked-el length="24" name="%0" offset="683" path="%24"/>
+   <linked-el length="41" name="%0" offset="1592" path="%22"/>
+   <linked-el length="32" name="%0" offset="1079" path="%22"/>
+   <linked-el length="27" name="%0" offset="1273" path="%22"/>
+   <linked-el length="23" name="%0" offset="1401" path="%22"/>
+   <linked-el length="24" name="%0" offset="617" path="%21"/>
+   <linked-el length="38" name="%0" offset="2132" path="%24"/>
+   <linked-el length="61" name="%0" offset="1362" path="%24"/>
+   <linked-el length="41" name="%0" offset="1006" path="%21"/>
+   <linked-el length="38" name="%0" offset="2575" path="%24"/>
+   <linked-el length="24" name="%0" offset="651" path="%22"/>
+   <linked-el length="42" name="%0" offset="1240" path="%24"/>
+   <linked-el length="41" name="%0" offset="1542" path="%24"/>
+   <linked-el length="77" name="%0" offset="694" path="%18"/>
+   <linked-el length="27" name="%0" offset="908" path="%24"/>
+   <linked-el length="50" name="%0" offset="777" path="%24"/>
+   <linked-el length="46" name="%0" offset="941" path="%23"/>
+   <linked-el length="39" name="%25" offset="2028" path="%15"/>
+   <linked-el length="38" name="%25" offset="2132" path="%24"/>
+   <linked-el length="41" name="%25" offset="3149" path="%15"/>
+   <linked-el length="20" name="%25" offset="1742" path="%15"/>
+   <linked-el length="61" name="%25" offset="1362" path="%24"/>
+   <linked-el length="46" name="%25" offset="1606" path="%18"/>
+   <linked-el length="41" name="%25" offset="1006" path="%21"/>
+   <linked-el length="46" name="%25" offset="2790" path="%15"/>
+   <linked-el length="42" name="%25" offset="1240" path="%24"/>
+   <linked-el length="21" name="%25" offset="1633" path="%15"/>
+   <linked-el length="41" name="%25" offset="1542" path="%24"/>
+   <linked-el length="45" name="%25" offset="2908" path="%15"/>
+   <linked-el length="49" name="%25" offset="3325" path="%15"/>
+   <linked-el length="43" name="%25" offset="1124" path="%24"/>
+   <linked-el length="38" name="%25" offset="1596" path="%21"/>
+   <linked-el length="16" name="%25" offset="1843" path="%15"/>
+   <linked-el length="55" name="%25" offset="3026" path="%15"/>
+   <linked-el length="21" name="%3" offset="1068" path="%16"/>
+   <linked-el length="22" name="%3" offset="874" path="%16"/>
+   <linked-el length="38" name="%3" offset="569" path="%16"/>
+   <linked-el length="30" name="%1" offset="1225" path="%21"/>
+   <linked-el length="18" name="%1" offset="1908" path="%24"/>
+   <linked-el length="46" name="%1" offset="1606" path="%18"/>
+   <linked-el length="32" name="%1" offset="835" path="%18"/>
+   <linked-el length="27" name="%1" offset="833" path="%21"/>
+   <linked-el length="30" name="%1" offset="876" path="%22"/>
+   <linked-el length="24" name="%1" offset="761" path="%23"/>
+   <linked-el length="50" name="%1" offset="704" path="%21"/>
+   <linked-el length="33" name="%1" offset="2041" path="%24"/>
+   <linked-el length="25" name="%1" offset="1656" path="%24"/>
+   <linked-el length="49" name="%1" offset="1297" path="%18"/>
+   <linked-el length="43" name="%1" offset="1124" path="%24"/>
+   <linked-el length="19" name="%1" offset="1232" path="%18"/>
+   <linked-el length="30" name="%1" offset="1761" path="%24"/>
+   <linked-el length="38" name="%1" offset="1596" path="%21"/>
+   <linked-el length="43" name="%1" offset="2031" path="%21"/>
+   <linked-el length="24" name="%1" offset="683" path="%24"/>
+   <linked-el length="23" name="%1" offset="1181" path="%18"/>
+   <linked-el length="41" name="%1" offset="1592" path="%22"/>
+   <linked-el length="32" name="%1" offset="1079" path="%22"/>
+   <linked-el length="27" name="%1" offset="1273" path="%22"/>
+   <linked-el length="23" name="%1" offset="1401" path="%22"/>
+   <linked-el length="24" name="%1" offset="617" path="%21"/>
+   <linked-el length="38" name="%1" offset="2132" path="%24"/>
+   <linked-el length="21" name="%1" offset="1061" path="%18"/>
+   <linked-el length="61" name="%1" offset="1362" path="%24"/>
+   <linked-el length="41" name="%1" offset="1006" path="%21"/>
+   <linked-el length="33" name="%1" offset="1828" path="%18"/>
+   <linked-el length="38" name="%1" offset="2575" path="%24"/>
+   <linked-el length="25" name="%1" offset="1705" path="%18"/>
+   <linked-el length="33" name="%1" offset="1505" path="%21"/>
+   <linked-el length="24" name="%1" offset="651" path="%22"/>
+   <linked-el length="25" name="%1" offset="1120" path="%21"/>
+   <linked-el length="42" name="%1" offset="1240" path="%24"/>
+   <linked-el length="41" name="%1" offset="1542" path="%24"/>
+   <linked-el length="77" name="%1" offset="694" path="%18"/>
+   <linked-el length="14" name="%1" offset="1139" path="%18"/>
+   <linked-el length="18" name="%1" offset="1372" path="%21"/>
+   <linked-el length="27" name="%1" offset="908" path="%24"/>
+   <linked-el length="50" name="%1" offset="777" path="%24"/>
+   <linked-el length="46" name="%1" offset="941" path="%23"/>
+   <linked-el length="39" name="%9" offset="2028" path="%15"/>
+   <linked-el length="32" name="%9" offset="1133" path="%15"/>
+   <linked-el length="41" name="%9" offset="3149" path="%15"/>
+   <linked-el length="20" name="%9" offset="1742" path="%15"/>
+   <linked-el length="49" name="%9" offset="2147" path="%15"/>
+   <linked-el length="31" name="%9" offset="1189" path="%15"/>
+   <linked-el length="52" name="%9" offset="2405" path="%15"/>
+   <linked-el length="46" name="%9" offset="2790" path="%15"/>
+   <linked-el length="21" name="%9" offset="1633" path="%15"/>
+   <linked-el length="35" name="%9" offset="1314" path="%15"/>
+   <linked-el length="35" name="%9" offset="1531" path="%15"/>
+   <linked-el length="45" name="%9" offset="2908" path="%15"/>
+   <linked-el length="49" name="%9" offset="3325" path="%15"/>
+   <linked-el length="28" name="%9" offset="3447" path="%15"/>
+   <linked-el length="16" name="%9" offset="3578" path="%15"/>
+   <linked-el length="16" name="%9" offset="1843" path="%15"/>
+   <linked-el length="27" name="%9" offset="3695" path="%15"/>
+   <linked-el length="55" name="%9" offset="3026" path="%15"/>
+   <linked-el length="16" name="%26" offset="3861" path="%14"/>
+   <linked-el length="27" name="%26" offset="3702" path="%14"/>
+   <linked-el length="28" name="%26" offset="3542" path="%14"/>
+   <linked-el length="31" name="%26" offset="3251" path="%14"/>
+   <linked-el length="24" name="%26" offset="2570" path="%13"/>
+   <linked-el length="40" name="%26" offset="4031" path="%14"/>
+   <linked-el length="23" name="%26" offset="3399" path="%14"/>
+   <linked-el length="30" name="%27" offset="1225" path="%21"/>
+   <linked-el length="24" name="%27" offset="2570" path="%13"/>
+   <linked-el length="21" name="%27" offset="1061" path="%18"/>
+   <linked-el length="13" name="%27" offset="2027" path="%20"/>
+   <linked-el length="33" name="%27" offset="1828" path="%18"/>
+   <linked-el length="25" name="%27" offset="1705" path="%18"/>
+   <linked-el length="21" name="%27" offset="1919" path="%20"/>
+   <linked-el length="33" name="%27" offset="1505" path="%21"/>
+   <linked-el length="25" name="%27" offset="1120" path="%21"/>
+   <linked-el length="33" name="%27" offset="2041" path="%24"/>
+   <linked-el length="23" name="%27" offset="3399" path="%14"/>
+   <linked-el length="25" name="%27" offset="1656" path="%24"/>
+   <linked-el length="28" name="%27" offset="3542" path="%14"/>
+   <linked-el length="31" name="%27" offset="3251" path="%14"/>
+   <linked-el length="19" name="%27" offset="1232" path="%18"/>
+   <linked-el length="28" name="%27" offset="3447" path="%15"/>
+   <linked-el length="30" name="%27" offset="1761" path="%24"/>
+   <linked-el length="21" name="%27" offset="2237" path="%20"/>
+   <linked-el length="14" name="%27" offset="1139" path="%18"/>
+   <linked-el length="23" name="%27" offset="1181" path="%18"/>
+   <linked-el length="18" name="%27" offset="2132" path="%20"/>
+   <linked-el length="45" name="%28" offset="1259" path="%13"/>
+   <linked-el length="28" name="%28" offset="1057" path="%13"/>
+   <linked-el length="55" name="%28" offset="3026" path="%15"/>
+   <linked-el length="45" name="%11" offset="1259" path="%13"/>
+   <linked-el length="20" name="%11" offset="863" path="%13"/>
+   <linked-el length="33" name="%11" offset="2798" path="%14"/>
+   <linked-el length="28" name="%11" offset="1057" path="%13"/>
+   <linked-el length="34" name="%11" offset="1895" path="%14"/>
+   <linked-el length="31" name="%11" offset="2357" path="%14"/>
+   <linked-el length="27" name="%11" offset="3702" path="%14"/>
+   <linked-el length="45" name="%11" offset="950" path="%14"/>
+   <linked-el length="31" name="%11" offset="3251" path="%14"/>
+   <linked-el length="39" name="%11" offset="4275" path="%14"/>
+   <linked-el length="36" name="%11" offset="4733" path="%14"/>
+   <linked-el length="34" name="%11" offset="2491" path="%14"/>
+   <linked-el length="33" name="%11" offset="1593" path="%14"/>
+   <linked-el length="30" name="%11" offset="1350" path="%14"/>
+   <linked-el length="24" name="%11" offset="2570" path="%13"/>
+   <linked-el length="40" name="%11" offset="4031" path="%14"/>
+   <linked-el length="12" name="%11" offset="2240" path="%13"/>
+   <linked-el length="31" name="%11" offset="1804" path="%14"/>
+   <linked-el length="19" name="%11" offset="2499" path="%13"/>
+   <linked-el length="43" name="%11" offset="1098" path="%14"/>
+   <linked-el length="19" name="%11" offset="1476" path="%13"/>
+   <linked-el length="23" name="%11" offset="3399" path="%14"/>
+   <linked-el length="16" name="%11" offset="3861" path="%14"/>
+   <linked-el length="37" name="%11" offset="567" path="%13"/>
+   <linked-el length="34" name="%11" offset="2710" path="%14"/>
+   <linked-el length="28" name="%11" offset="3542" path="%14"/>
+   <linked-el length="47" name="%11" offset="2963" path="%14"/>
+   <linked-el length="15" name="%11" offset="1722" path="%13"/>
+   <linked-el length="15" name="%11" offset="1980" path="%13"/>
+   <linked-el length="38" name="%11" offset="2576" path="%14"/>
+   <linked-el length="41" name="%11" offset="731" path="%14"/>
+   <linked-el length="39" name="%11" offset="2012" path="%14"/>
+   <linked-el length="39" name="%11" offset="4503" path="%14"/>
+   <linked-el length="33" name="%11" offset="1495" path="%14"/>
+   <linked-el length="21" name="%29" offset="1068" path="%16"/>
+   <linked-el length="22" name="%29" offset="874" path="%16"/>
+   <linked-el length="32" name="%6" offset="1396" path="%17"/>
+   <linked-el length="29" name="%6" offset="1017" path="%17"/>
+   <linked-el length="30" name="%6" offset="774" path="%15"/>
+   <linked-el length="30" name="%6" offset="553" path="%14"/>
+   <linked-el length="30" name="%6" offset="574" path="%18"/>
+   <linked-el length="21" name="%6" offset="1212" path="%17"/>
+   <linked-el length="30" name="%30" offset="1225" path="%21"/>
+   <linked-el length="18" name="%30" offset="1908" path="%24"/>
+   <linked-el length="33" name="%30" offset="1828" path="%18"/>
+   <linked-el length="25" name="%30" offset="1705" path="%18"/>
+   <linked-el length="33" name="%30" offset="1505" path="%21"/>
+   <linked-el length="25" name="%30" offset="1120" path="%21"/>
+   <linked-el length="33" name="%30" offset="2041" path="%24"/>
+   <linked-el length="25" name="%30" offset="1656" path="%24"/>
+   <linked-el length="28" name="%30" offset="3447" path="%15"/>
+   <linked-el length="30" name="%30" offset="1761" path="%24"/>
+   <linked-el length="16" name="%30" offset="3578" path="%15"/>
+   <linked-el length="18" name="%30" offset="1372" path="%21"/>
+   <linked-el length="27" name="%30" offset="3695" path="%15"/>
+   <linked-el length="34" name="%5" offset="633" path="%19"/>
+   <linked-el length="34" name="%5" offset="697" path="%19"/>
+   <linked-el length="49" name="%5" offset="2377" path="%20"/>
+   <linked-el length="30" name="%5" offset="920" path="%19"/>
+   <linked-el length="13" name="%5" offset="2027" path="%20"/>
+   <linked-el length="34" name="%5" offset="716" path="%20"/>
+   <linked-el length="32" name="%5" offset="1324" path="%20"/>
+   <linked-el length="25" name="%5" offset="877" path="%20"/>
+   <linked-el length="30" name="%5" offset="1148" path="%19"/>
+   <linked-el length="34" name="%5" offset="1087" path="%20"/>
+   <linked-el length="21" name="%5" offset="1919" path="%20"/>
+   <linked-el length="50" name="%5" offset="1522" path="%19"/>
+   <linked-el length="47" name="%5" offset="2566" path="%20"/>
+   <linked-el length="30" name="%5" offset="983" path="%20"/>
+   <linked-el length="30" name="%5" offset="1211" path="%20"/>
+   <linked-el length="32" name="%5" offset="1261" path="%19"/>
+   <linked-el length="25" name="%5" offset="814" path="%19"/>
+   <linked-el length="21" name="%5" offset="2237" path="%20"/>
+   <linked-el length="48" name="%5" offset="1583" path="%20"/>
+   <linked-el length="34" name="%5" offset="1024" path="%19"/>
+   <linked-el length="34" name="%5" offset="1780" path="%20"/>
+   <linked-el length="18" name="%5" offset="2132" path="%20"/>
+   <linked-el length="39" name="%31" offset="2028" path="%15"/>
+   <linked-el length="61" name="%31" offset="1362" path="%24"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/marketdemoWeb/WebContent/supervisor/productos.xhtml" value="%20"/>
+  <alias
+   path="/marketdemoWeb/src/marketdemo/controller/BeanSupervisor.java" value="%7"/>
+  <alias path="beanLogin" value="%8"/>
+  <alias path="/marketdemoWeb/WebContent/clientes/index.xhtml" value="%23"/>
+  <alias path="beanParametro" value="%3"/>
+  <alias path="beanPedidos" value="%1"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/FacturaDet.java" value="%26"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/Producto.java" value="%27"/>
+  <alias path="/marketdemoWeb/WebContent/clientes/registro.xhtml" value="%22"/>
+  <alias path="/marketdemoWeb/WebContent/clientes/pedido_imprimir.xhtml" value="%24"/>
+  <alias path="/marketdemoWeb/src/marketdemo/controller/BeanLogin.java" value="%6"/>
+  <alias path="/marketdemoWeb/WebContent/supervisor/parametros.xhtml" value="%16"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/EstadoPedido.java" value="%31"/>
+  <alias path="/marketdemoWeb/WebContent/login.xhtml" value="%17"/>
+  <alias
+   path="/marketdemoWeb/WebContent/supervisor/productos_update.xhtml" value="%19"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/FacturaCab.java" value="%12"/>
+  <alias path="/marketdemoWeb/WebContent/vendedor/facturacion.xhtml" value="%14"/>
+  <alias
+   path="/marketdemoWeb/src/marketdemo/controller/BeanParametro.java" value="%2"/>
+  <alias
+   path="/marketdemoWeb/src/marketdemo/controller/BeanFactura.java" value="%10"/>
+  <alias
+   path="/marketdemoWeb/src/marketdemo/controller/BeanProductos.java" value="%4"/>
+  <alias path="/marketdemoWeb/WebContent/supervisor/facturas.xhtml" value="%13"/>
+  <alias
+   path="/marketdemoWeb/src/marketdemo/controller/BeanPedidos.java" value="%0"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/PedidoCab.java" value="%25"/>
+  <alias path="beanSupervisor" value="%9"/>
+  <alias path="beanFactura" value="%11"/>
+  <alias path="/marketdemoWeb/WebContent/supervisor/index.xhtml" value="%15"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/Cliente.java" value="%28"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/Parametro.java" value="%29"/>
+  <alias
+   path="/marketdemoEJB/ejbModule/marketdemo/model/entities/PedidoDet.java" value="%30"/>
+  <alias path="beanProductos" value="%5"/>
+  <alias path="/marketdemoWeb/WebContent/clientes/confirmacion.xhtml" value="%21"/>
+  <alias path="/marketdemoWeb/WebContent/clientes/pedido.xhtml" value="%18"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+ </uris>
+</kb-project>
